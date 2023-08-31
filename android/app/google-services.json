@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583022572795",
+    "project_id": "silma-connect",
+    "storage_bucket": "silma-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583022572795:android:b4f761d9c28b1016b16c5e",
+        "android_client_info": {
+          "package_name": "com.example.silma_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583022572795-3vauk3sdm3lkeg9ic3vubnn13ah2nu77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.silma_connect",
+            "certificate_hash": "927474f499d7db55514e4c26ffc209cf0be2f2d9"
+          }
+        },
+        {
+          "client_id": "583022572795-fms9l2v5f2jbrqa9c9v343c2r13mgni2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeU1Zpc51pTCeHUsB-fpnRmLbEGO7Rffc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583022572795-fms9l2v5f2jbrqa9c9v343c2r13mgni2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
